@@ -38,7 +38,6 @@ tests_require = [
     "tensorflow>=2.14.0",
     "tensorflow-text>=2.14.0rc0",
     "gin-config",
-    "t5x @ git+https://github.com/google-research/t5x",
 ]
 
 setup(
